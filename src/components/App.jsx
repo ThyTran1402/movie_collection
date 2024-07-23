@@ -40,7 +40,6 @@ const App = () => {
           </Route>
         </Switch>
       </main>
-      <div ref={alanBtnContainer} />
     </div>
         
     );
